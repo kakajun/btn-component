@@ -1,7 +1,12 @@
 {
-  "name": "hello-world",
+  "name": "btn-com",
   "version": "0.1.0",
-  "private": true,
+  "description": "测试公共组件库",
+  "main": "src/main.js",
+  "files": [
+    "src"
+  ],
+  "private": false,
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
